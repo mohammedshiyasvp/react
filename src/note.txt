@@ -1,0 +1,8 @@
+Redux
+______________
+coupling - parent to child data sharing
+props drilling - data stuck in a any intermidiate component during coupling
+
+Redux - state management technology 
+context - state management technology
+flux - state management technology
